@@ -1,0 +1,15 @@
+@import url("components/container.css");
+@import url('components/button.css');
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url('https://fonts.googleapis.com/css?family=Russo+One|Teko&display=swap');
+@import url("components/card.css");
+
+body {
+	font-family: 'Teko', sans-serif;
+	font-size: 30px
+}
+h1 {
+	font-family: 'Russo One', sans-serif;
+	font-size: 40px;
+}
